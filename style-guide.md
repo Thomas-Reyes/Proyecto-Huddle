@@ -22,6 +22,7 @@ The designs were created to the following widths:
 - Very Dark Cyan: hsl(192, 100%, 9%)
 - Very Pale Blue: hsl(207, 100%, 98%)
 
+
 ## Typography
 
 ### Headings
