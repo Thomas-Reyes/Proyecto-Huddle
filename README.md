@@ -7,6 +7,7 @@
 <h3>
   Formato vista computador
 </h3>
+
 ![image](https://github.com/user-attachments/assets/35ff4f43-07cf-4134-866a-b0ec0d0f7f64)
 <br><br>
 
